@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=discord-integration
+IAge=2
+Name=Discord Integration
+Name[ru]=Интеграция с Discord
+Description=Discord Integration
+Description[ru]=Интеграция с Discord
+Authors=Vitaliy Havanski <vitaly.hawanski@yandex.ru>
+Copyright=Copyright © 2022 Vitaliy Havanski
