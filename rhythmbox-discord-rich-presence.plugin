@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python3
+Module=rhythmbox-discord-rich-presence
+IAge=2
+Name=Discord Rich Presence
+Description=Rhythmbox Discord Rich Presence
+Authors=Vitaliy Havanski <vitaly.hawanski@yandex.ru>
+Copyright=Copyright © 2022 Vitaliy Havanski
