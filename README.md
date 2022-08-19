@@ -33,6 +33,8 @@ git clone https://github.com/Elektroplayer/rhythmbox-discord-rich-presence.git
 
 После выполенения команд перезагрузите Rhythmbox и включите плагин *Discord Rich Presence* в настройках.
 
+Если вы хотите немного изменить отображение музыки, то это можно сделать в файле `dp_config.py`. После изменения конфига стоит сохранить изменения и перезагрузить rhythmbox.
+
 ### **Автоматическая**
 
 *TODO*
