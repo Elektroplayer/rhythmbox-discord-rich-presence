@@ -41,7 +41,7 @@ git clone https://github.com/Elektroplayer/rhythmbox-discord-rich-presence.git
 
 Зайдите в папку с плагином и напишите команду:
 ```bash
-git fetch
+git pull
 ```
 Плагин автоматически обновится до последней версии. 
 
